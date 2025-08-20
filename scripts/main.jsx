@@ -44,7 +44,7 @@ const App = () => {
   };
 
   const fetchAIResponse = async (prompt) => {
-    const apiKey = "AIzaSyCdxXqNHn7k0eZKI_FScwz6Sj4QctwSZt4"; // Replace this with your Gemini API Key
+    const apiKey = "dewwedewfwevfwefwf"; // Replace this with your Gemini API Key
     const apiUrl = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=${apiKey}`;
 
     const payload = {
